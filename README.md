@@ -126,7 +126,7 @@ Temukan saya di:
 ```
 
 ```bash
-💼 LinkedIn: (https://www.linkedin.com/in/mochamad-ilham-hansyil-alfauzi-7574292bb/) (Lihat pengalaman kerja profesional dan jaringan saya)
+💼 LinkedIn: (https://www.linkedin.com/in/mochamad-ilham-hansyil-alfauzi-7574292bb/) 
 
 ```
 
@@ -135,7 +135,7 @@ Temukan saya di:
 
 ```
 
-<p align="center"> Built with ☕ (lots of it) and 💻 in the middle of the night.
+<p> Built with ☕ (lots of it) and 💻 in the middle of the night.
 
 
 © 2024 Ilham's Imagination Room. All rights reserved. </p>
