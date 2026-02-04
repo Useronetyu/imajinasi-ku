@@ -91,7 +91,7 @@ Semua teks naratif, termasuk kutipan tentang "malam hari", data profil, dan desk
 
 Lokasi File: Cek folder src/components/ui/ atau cari komponen spesifik seperti src/components/NightFocusCard.tsx.
 
-Cara Edit: Cari teks di dalam tag <p> atau <h1> dan ganti sesuai keinginanmu. Jika kamu menggunakan file data terpisah, cek folder src/lib/data.ts.
+Cara Edit: Cari teks di dalam tag <p> atau dan ganti sesuai keinginanmu. Jika kamu menggunakan file data terpisah, cek folder src/lib/data.ts.
 
 2. Mengganti Model 3D (Room & Objects)
 Ruangan dan objek 3D dimuat menggunakan format .glb atau .gltf yang sudah dioptimasi.
