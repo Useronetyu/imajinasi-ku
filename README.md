@@ -2,7 +2,7 @@
 
 > *"Ada energi berbeda saat lewat tengah malam. Gangguan memudar, menyisakan fokus yang tajam. Ini adalah waktu di mana ide-ide rumit akhirnya menemukan bentuknya, tanpa interupsi."*
 
-![Project Banner](public/og-image.png) ## 📖 About The Project
+![Project Banner](public/dash.png) ## 📖 About The Project
 
 **Ilham's Imagination Room** adalah portofolio interaktif berbasis 3D yang dirancang untuk memvisualisasikan "ruang aman" seorang developer introvert. Bukan sekadar daftar proyek, website ini adalah representasi digital dari suasana kerja saya: tenang, fokus, dan hidup di tengah keheningan malam.
 
